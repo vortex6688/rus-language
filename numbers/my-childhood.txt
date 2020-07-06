@@ -1,0 +1,14 @@
+English version:
+
+- I was born in 1988.
+- I was admitted to a kindergarten, 
+when i was 5 years old.
+- When i was 7, i went to the first grade.
+- When i was 15 years old, i went to high school.
+
+Russian version: 
+
+- Я родился в тысяча девятьсот восемьдесят восьмом году.
+- Я пошел в садик в пять лет.
+- Я пошел в первый класс в семь лет.
+- Я пошел в старшую школу в пятнадцать лет.
