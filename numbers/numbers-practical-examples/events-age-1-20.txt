@@ -1,26 +1,38 @@
 English:
 
-1) When i was one year old (In the age of one), 
+1) When i was one year old (At the age of one), 
 i learned how to stand up by myself, for the very first time.
-2) When i was two (In the age of two), i tried ice cream for the first time.
-3) When i was three years old (In the age of three), 
+2) When i was two (At the age of two), i tried ice cream for the first time.
+3) When i was three years old (At the age of three), 
 i got to watch a TV for the first time.
-4) When i was four years old (In the age of four), 
+4) When i was four years old (At the age of four), 
 i got to ride a bicycle for the first time.
-5) When i was five years old (In the age of five), 
+5) When i was five years old (At the age of five), 
 i went to a kindergarten for the first time.
-6) When i was six years old (In the age of six), i got to swim for the first time, 
+6) When i was six years old (At the age of six), i got to swim for the first time, 
 without anybody's help or a life jacket.
-7) When i was seven years old (In the age of seven), i learned how to read and write.
-8) When i was eight years old (In the age of eight), 
+7) When i was seven years old (At the age of seven), i learned how to read and write.
+8) When i was eight years old (At the age of eight), 
 i got to play a video game for the very first time!!!
-9) When i was nine years old (In the age of nine), 
+9) When i was nine years old (At the age of nine), 
 i won my first prize in a swimming competition.
-10) When i was ten (In the age of ten), 
+10) When i was ten (At the age of ten), 
 I got my first heart sheped card on a St. Valentine's Day!!!
+11) When i was eleven (At the age of eleven), i went to the middle school.
+12) When i was twelve (At the age of twelve), i started playing badminton.
+13) When i was thirteen (At the age of thirteen), my family moved to a different neighborhood.
+14) When i was forteen (At the age of thirteen), i got drunk for the first time in my life.
+15) When i was fifteen (At the age of fifteen), i had my first kiss.
+16) When i was sixteen (At the age of sixteen), I went to the high school.
+17) When i was seventeen (At the age of seventeen), I performed on stage for the first time.
+18) When i was eighteen (At the age of eighteen), I went to the university.
+19) When i was nineteen (At the age of nineteen), I wrote my first song.
+20) When i was twenty (At the age of nineteen), I got to organize a camping 
+adventure for my friends.
+
 
 Russian:
-"В возрасте ..." - "In the age of ..."
+"В возрасте ..." - "At the age of ..."
 
 1) В возрасте одного года, я в первый раз смог встать на ноги самостоятельно.
 2) В возрасте двух лет, я впервые попробовал мороженое.
@@ -32,3 +44,21 @@ Russian:
 8) В возрасте восьми лет, я в первый раз поиграл в видеоигру!!!
 9) В возрасте девяти лет, я получил награду за участие в соревнованиях по плаванию.
 10) В возрасте десяти лет, мне подарили мою первую валентинку.
+11) В возрасте одиннадцати лет, я пошел в среднюю школу.
+12) В возрасте двенадцати лет, я начал заниматься бадминтоном.
+13) В возрасте тринадцати лет, моя семья переехала в другой район.
+14) В возрасте четырнадцати лет, я напился в первый раз.
+15) В возрасте пятнадцати лет, я в первый раз поцеловался.
+16) В возрасте шестнадцати лет, я пошел в старшую школу.
+17) В возрасте семнадцати лет, я вышел на сцену в первый раз.
+18) В возрасте восемнадцати лет, я поступил в институт.
+19) В возрасте девятнадцати лет, я написал мою первую песню.
+20) В возрасте двадцати лет, я организовал поход для моих друзей.
+
+
+
+
+
+Plan of the future streams:
+1) greetings
+2) зrepositions
