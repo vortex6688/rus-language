@@ -1,0 +1,64 @@
+Questions:
+
+1) What is your name? 
+   Как тебя зовут?
+
+2) How are you?
+   Как дела?
+
+3) How old are you?
+   Сколько тебе/вам лет (вам - formal/official/respectful way to ask, or to address more than one person)?
+
+4) Where are you from? (What country are you from?) / What is your origin? 
+   Откуда ты/вы (вы - formal/official/respectful way to ask, or to address more than one person)? / Откуда ты/вы родом?
+   
+5) What is your hometown?
+   В каком городе ты/вы родился (addressed to a male) /родилась (addressed to a female)
+   /родились (addressed to more than one person or more formal/official/respectful way to ask)?
+
+6) Do you have any evening plans?
+   Какие у тебя (у вас - formal/official/respectful way to ask, or to address more than one person) планы на вечер?
+
+7) Could you tell me what time it is now? (What time is it)?
+   Не подскажите который час?
+
+8) What is your favorite music?
+   Какая твоя/ваша (ваша - formal/official/respectful way to ask, or to address more than one person) любимая музыка?
+
+9) What is your favorite color?
+   Какой у тебя/у вас (у вас - formal/official/respectful way to ask, or to address more than one person) любимый цвет?
+
+10) What is your favorite number?
+    Какоe у тебя/у вас (у вас - formal/official/respectful way to ask, or to address more than one person) любимое число?
+
+Answers:
+
+1) My name is Matvey / I am Matvey.
+   Меня зовут Матвей / Я Матвей.
+
+2) I am good (Everything is good) / I am ok (Everything is ok) / I am not good (Everything is bad).
+   У меня всё хорошо / У меня всё нормально / У меня всё плохо.
+
+3) I am 32 years old.
+   Мне 32 года.
+
+4) I am from Russia / I am Russian.
+   Я из России / Я Русский.
+
+5) My hometown is Omsk.
+   Мой родной город Омск.
+
+6) I don't have any plans / I have so many plans / My plans can wait (I could move my plans around).
+   У меня нет никаких планов / У меня очень много запланировано / Мои планы могут подождать.
+
+7) A quarter to nine.
+   Без пятнадцати девять.
+
+8) My favorite music is Heavy Metal.
+   Моя любимая музыка Тяжёлый Метал.
+
+9) My favorite color is black.
+   Мой любимый цвет черный.
+
+10) My favorite number is ten.
+    Моё любимое число десять.
