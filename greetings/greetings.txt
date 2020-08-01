@@ -1,7 +1,7 @@
-Greeting in Russian
+Greetings in Russian
 
 English:
-Official greeting / Оффициальное приветствие:
+Official (Formal) Greetings / Оффициальное (Формальные) Приветствия:
 1) Hello (+ i wish you to be healthy)
 2) Hello (+ i wish you to be healthy) - full/extended version
 3) Good Morning
@@ -11,13 +11,13 @@ Official greeting / Оффициальное приветствие:
 Unofficial greeting / Неффициальное приветствие:
 1) Hi / Hello / Hey / Yo + How are you? / How are you doing? / How are things? / How is it going?
 2) Hi / Hello / Hey / Yo + What's new? / What's up? / What's going on?
-3) Hi / Hello / Hey / Yo
+3) Hi / Hello / Hey / Yo.
 
 
 Russian:
 Official greeting / Оффициальное приветствие:
-1) Здравствуйте (zdravstvuyte - plural/respectful) - May be used in any case
-   Здравствуй (zdravstvuy - singular) - Mostly used when greeting a friend / single person
+1) Здравствуйте (zdravstvuyte - could be addressed to more than one person in a room/respectful) - May be used in any case
+   Здравствуй (zdravstvuy - may be addressed to a single person) - Mostly used when greeting a friend / single person
 2) Здравия Желаю (Zdravia Zhelayu) - full/extended version.
 3) Доброе Утро (Dobroe Utro)
 4) Добрый День (Dobriy Den') - May work as a "good morning/evening" as well.
