@@ -1,0 +1,53 @@
+
+1) Здравствуйте! (Здравствуй!) / Привет!
+1) Hello! / Hi!
+
+- Как вас зовут?
+- What is your name?
+2) Меня зовут Матвей. (Я Матвей)
+2) My name is Matvey. (I am Matvey)
+
+- Откуда вы приехали? / Откуда вы?
+- Where are you from? 
+3) Я из России, из Омска, из Сибири.
+3) I am from Russia, Omsk, Siberia (Сайбирия).
+
+- Чем вы любите заниматься в свободное время?
+- What do you like to do (in your free time)? 
+4) Я люблю играть на гитаре, а также видео игры.
+4) I like playing the guitar, and video games as well (as well - также).
+
+- Какую гитару вы предпочитаете (в основном)? / На какой гитаре вы предпочитаете играть?
+- What kind of guitar would you (normally) prefer?
+5) Я предпочитаю електро гитару (в основном).
+5) I prefer electric guitar (I prefer playing electric guitar), или
+   I would normally prefer electric guitar.
+
+- Как долго (Как давно) вы играете на гитаре? 
+- How long have you been playing the guitar?
+6) Я играю (на гитаре) 10 лет.
+6) I have been playing (the guitar) for 10 years.
+
+- В какие видео игры вы играете?
+- What video games do you play?
+7) Мои любимые видео игры: Valorant, Fallout 4, League of Legends.
+7) My favorite video games are: Valorant, Fallout 4, League of Legends.
+
+- Какую мызыку вы любите?
+- What kind of music do you like?
+8) Я люблю рок музыку 80х, а также классические произведения.
+8) I like 80's rock music, as well as classical compositions (music pieces).
+
+Note: "Music Piece" - музыкальная композиция (классическая).
+
+- Кем вы работаете? (Как вы зарабатываете на жизнь?)
+- (What do you do for living?)
+9) Я работаю архитектором в пристижной компании, находещейся в Нью Йорке.
+9) I am an architect and I work for a prestiges company based in New York City!
+
+- Сколько языков вы знаете?
+- How many languages do you speak?
+10) Я говорю на двух языках, Русском и Англйском.
+10) I speak two languages, Russian and English.
+
+
