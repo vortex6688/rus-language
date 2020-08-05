@@ -49,5 +49,3 @@ Note: "Music Piece" - музыкальная композиция (класси�
 - How many languages do you speak?
 10) Я говорю на двух языках, Русском и Англйском.
 10) I speak two languages, Russian and English.
-
-
