@@ -3,7 +3,7 @@
 - убирать/чистить (to clean),
 - работать (to work),
 - учить/изучать (to learn/to study)
-- спать/отдыхать (to sleep/ to rest)
+- спать/отдыхать (to sleep/to rest)
 
 1) Я бегаю каждое утро.
 1) I run every morning.
@@ -11,7 +11,7 @@
 2) Я убираю свою комнату довольно часто.
 2) I clean my room quite often.
 
-3) Я работаю 3 дня в неделе.
+3) Я работаю 3 дня в неделю.
 3) I work 3 days a week.
 
 4) Я постоянно изучаю что-то новое.
@@ -21,4 +21,24 @@
 5) Usually, I sleep no more than 6 hours a day.
 
 Прилагательные (Adjectives):
+- Ответственный (Responsible),
+- Добрый (Kind),
+- Нетерпеливый (Impatient),
+- Вспыльчивый (Hot-tempered),
+- Любознательный (Curious).
+
+1) Я очень ответственный человек.
+1) I am a very responsible person (I + (to be) a very responsible person).
+
+2) Я человек совсем не добрый.
+2) I am not a kind person, at all.
+
+3) Я очень нетерпеливый в любой ситуации (Я очень нетерпеливый человек в любой ситуации).
+3) I am very impatient in every situation (I am a very impatient person in every situation).
+
+4) Я очень вспыльчивый, особенно когда я очень голодный.
+4) I am very hot-tempered, especially when I am starving.
+
+5) Я задаю много вопросов, потому что я очень любознательный.
+5) I ask a lot of questions, because I am very curious.
 
