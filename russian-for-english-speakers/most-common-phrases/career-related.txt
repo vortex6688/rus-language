@@ -1,0 +1,33 @@
+Questions:
+
+1) What is your job? (What do you do for living?)
+1) Кем вы работаете?/Кем ты работаешь?
+
+2) What is your work schedule?
+2) Какое у вас рабочее расписание?/Какое у тебя рабочее расписание?
+
+3) How much are you paid?
+3) Сколько вам платят?/Сколько тебе платят?
+
+4) Do you have a paid vacation?
+4) Дают ли вам оплачиваемый отпуск?/Дают ли тебе оплачиваемый отпуск?
+
+5) How many days is your vacation?
+5) Сколько дней длится ваш отпуск?/Сколь дней длится твой отпуск?
+
+
+Answers:
+1) I work as a web developer (development).
+1) Я работаю веб-разработчиком (разработка).
+
+2) I work nine to five.
+2) Я работаю с девяти до пяти.
+
+3) I am paid fifteen dollars per hour.
+3) Мне платят пятнадцать долларов в час.
+
+4) No, my vacation is not paid.
+4) Нет, мой отпуск не оплачивается.
+
+5) I have thirty days of vacation.
+5) Мой отпуск длится тридцать дней.
